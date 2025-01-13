@@ -26,7 +26,7 @@ This repository contains a **comprehensive Power BI dashboard** for analyzing so
   - **Top 5 Companies by ROI:** Attire Artistry, Balance Beam, Culinary Quest, Space Spruce, and Style Sphere.
   - **Campaign Distribution by Customer Segment:** Health (19.98%), Home (20.03%), Food (19.98%), Fashion (20.02%), Technology (20.02%).
 
-![Campaign Overview](screenshots/campaign_overview.png)
+![Campaign Overview](Screenshots/campaign_overview.png)
 
 ---
 
@@ -39,7 +39,7 @@ This repository contains a **comprehensive Power BI dashboard** for analyzing so
   - **Distribution of Campaign Goals:** Brand Awareness (75,248 campaigns), Increase Sales, Market Expansion, Product Launch.
   - **ROI by Company:** Attire Artistry had the highest ROI (323.46%).
 
-![Campaign Performance](screenshots/campaign_performance.png)
+![Campaign Performance](Screenshots/campaign_performance.png)
 
 ---
 
@@ -52,7 +52,7 @@ This repository contains a **comprehensive Power BI dashboard** for analyzing so
   - **Engagement Score Over Months:** Peaked from December 2022 to January 2022 (10.00).
   - **Target Audience by Campaign Goal:** Women 18-24 (33.6%), Men 25-34 (23.8%), Women 25-34 (23.8%).
 
-![Audience Segmentation](screenshots/audience_segmentation.png)
+![Audience Segmentation](Screenshots/audience_segmentation.png)
 
 ---
 
@@ -64,7 +64,7 @@ This repository contains a **comprehensive Power BI dashboard** for analyzing so
   - **Total Spend Across Channels:** $55 trillion.
   - **Top Performer:** Facebook (1.52 billion clicks).
 
-![Channel Performance](screenshots/channel_performance.png)
+![Channel Performance](Screenshots/channel_performance.png)
 
 ---
 
